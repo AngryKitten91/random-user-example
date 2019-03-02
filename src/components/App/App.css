@@ -1,0 +1,22 @@
+.App {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.user {
+    background-color: rgb(240, 240, 240);
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px 0;
+    box-sizing: border-box;
+}
+
+.error {
+    color: #fff;
+    background-color: rgb(212, 86, 86);
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px 0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
